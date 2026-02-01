@@ -7,3 +7,7 @@
 ```bash
 npm install
 npm run dev
+
+```
+## Demo (Vercel)
+https://react-task-47-1-19wpfq89l-bogdans-projects-bb0e7119.vercel.app/
